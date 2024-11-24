@@ -7,5 +7,5 @@
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",TVP1
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-referrer=https://cartoonstvonline.com/
-#https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/v0-121.m3u8
-https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/v4-221.m3u8
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Polski",DEFAULT=YES,AUTOSELECT=YES,URI="https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/v4-221.m3u8"
+https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/v0-121.m3u8
