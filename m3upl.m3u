@@ -7,5 +7,5 @@
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="",TVP1
 #KODIPROP:inputstream=inputstream.adaptive
 #EXTVLCOPT:http-referrer=https://cartoonstvonline.com/
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Polski",DEFAULT=YES,AUTOSELECT=YES,URI="https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/v4-221.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=9243463,AVERAGE-BANDWIDTH=6162573,RESOLUTION=1920x1080,CODECS="avc3.4D4028,mp4a.40.2",FRAME-RATE=25.000,AUDIO="mp4a.40.2-128000-48000-2",CLOSED-CAPTIONS=NONE
 https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/v0-121.m3u8
