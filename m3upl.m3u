@@ -25,6 +25,15 @@ https://xyzdddd.mizhls.ru/lb/premium444/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-sport-pl.png",TVP Sport
 https://irylek.ct8.pl/stream/tvpsport
 
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-kultura-pl.png",TVP Kultura
+https://irylek.ct8.pl/stream/tvpkultura
+
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-kultura2-pl.png",TVP Kultura2
+https://irylek.ct8.pl/stream/tvpkultura2
+
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-nauka-pl.png",TVP Nauka
+https://irylek.ct8.pl/stream/tvpnauka
+
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-abc-pl.png",TVP ABC
 https://irylek.ct8.pl/stream/tvpabc
 
