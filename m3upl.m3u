@@ -4,10 +4,10 @@
 
 # 📺 TV
 
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/poland/tvp1-hd-pl.png",TVP1
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp1-hd-pl.png",TVP1
 #KODIPROP:inputstream=inputstream.adaptive
 https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/poland/polsat-news-pl.png",Polsat News
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/polsat-news-pl.png",Polsat News
 #KODIPROP:inputstream=inputstream.adaptive
 https://lb2-e2-22.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
