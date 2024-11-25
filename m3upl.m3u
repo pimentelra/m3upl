@@ -4,7 +4,7 @@
 
 # 📺 TV
 
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp1-hd-pl.png",TVP1
+#EXTINF:-1 group-title="TV" tvg-id="TVP1.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp1-hd-pl.png",TVP1
 #KODIPROP:inputstream=inputstream.adaptive
 https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
 
@@ -18,3 +18,6 @@ https://lb2-e2-22.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-info-pl.png",TVP Info
 #KODIPROP:inputstream=inputstream.adaptive
 https://rsdt-waw1502-229.tvp.pl/token/video/live/14812849/20241125/1500745968/-i4TqOhLlml58RjqyqqWHfOcBDJvsuOEH8MUDvvu7V7cbeZWTQRSAoUlxcbLPkAo1JxxAcMqxqDxE3d_GI-Ldov7hrT2_wMHKxFBAE6HYfLktrK-n44Z4sIktIVu4Z4m6wv1ZBmReH8FUXuTcQopMG5lxaMp1wZx-NqNS9aMf0M/156/master.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvn24-pl.png",TVN24
+https://huhu.to/play/3073846853/index.m3u8
