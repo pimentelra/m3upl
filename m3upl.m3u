@@ -31,10 +31,10 @@ https://irylek.ct8.pl/stream/tvpkultura2
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TVP_Nauka_%282022%29.svg/240px-TVP_Nauka_%282022%29.svg.png",TVP Nauka
 https://irylek.ct8.pl/stream/tvpnauka
 
-#EXTINF:-1 group-title="TV" tvg-id="History.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-kultura-pl.png",TVP Historia
+#EXTINF:-1 group-title="TV" tvg-id="History.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-historia-pl.png",TVP Historia
 https://irylek.ct8.pl/stream/tvphistoria
 
-#EXTINF:-1 group-title="TV" tvg-id="History2.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-kultura-pl.png",TVP Historia 2
+#EXTINF:-1 group-title="TV" tvg-id="History2.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-historia-2-pl.png",TVP Historia 2
 https://irylek.ct8.pl/stream/tvphistoria2
 
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/TVP_World_%282021%29.svg/800px-TVP_World_%282021%29.svg.png",TVP World
