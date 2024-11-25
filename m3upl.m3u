@@ -21,3 +21,6 @@ https://rsdt-waw1502-229.tvp.pl/token/video/live/14812849/20241125/1500745968/-i
 
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvn24-pl.png",TVN24
 https://xyzdddd.mizhls.ru/lb/premium444/index.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-abc-pl.png",TVP ABC
+https://irylek.ct8.pl/stream/tvpabc
