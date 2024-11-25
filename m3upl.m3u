@@ -11,21 +11,21 @@ https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="TVP2.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp2-hd-pl.png",TVP2
 https://ec04-waw4.cache.orange.pl/dai4/org2/vb/105/tvp2hd/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-news-pl.png",Polsat News
+#EXTINF:-1 group-title="TV" tvg-id="PolsatNews.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-news-pl.png",Polsat News
 #KODIPROP:inputstream=inputstream.adaptive
 https://lb2-e2-22.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
 
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-info-pl.png",TVP Info
+#EXTINF:-1 group-title="TV" tvg-id="TVPInfo.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-info-pl.png",TVP Info
 #KODIPROP:inputstream=inputstream.adaptive
 https://rsdt-waw1502-229.tvp.pl/token/video/live/14812849/20241125/1500745968/-i4TqOhLlml58RjqyqqWHfOcBDJvsuOEH8MUDvvu7V7cbeZWTQRSAoUlxcbLPkAo1JxxAcMqxqDxE3d_GI-Ldov7hrT2_wMHKxFBAE6HYfLktrK-n44Z4sIktIVu4Z4m6wv1ZBmReH8FUXuTcQopMG5lxaMp1wZx-NqNS9aMf0M/156/master.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvn24-pl.png",TVN24
+#EXTINF:-1 group-title="TV" tvg-id="TVN24.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvn24-pl.png",TVN 24
 https://xyzdddd.mizhls.ru/lb/premium444/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-sport-pl.png",TVP Sport
+#EXTINF:-1 group-title="TV" tvg-id="TVPSport.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-sport-pl.png",TVP Sport
 https://irylek.ct8.pl/stream/tvpsport
 
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-kultura-pl.png",TVP Kultura
+#EXTINF:-1 group-title="TV" tvg-id="TVPKultura.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-kultura-pl.png",TVP Kultura
 https://irylek.ct8.pl/stream/tvpkultura
 
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-kultura-2-pl.png",TVP Kultura2
@@ -34,7 +34,7 @@ https://irylek.ct8.pl/stream/tvpkultura2
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TVP_Nauka_%282022%29.svg/240px-TVP_Nauka_%282022%29.svg.png",TVP Nauka
 https://irylek.ct8.pl/stream/tvpnauka
 
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-abc-pl.png",TVP ABC
+#EXTINF:-1 group-title="TV" tvg-id="TVPABC.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-abc-pl.png",TVP ABC
 https://irylek.ct8.pl/stream/tvpabc
 
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-abc2-pl.png",TVP ABC2
