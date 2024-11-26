@@ -23,6 +23,9 @@ https://1999.weebvideo.stream/channel/110892/amlst:live/playlist.m3u8?token=FNep
 #EXTINF:-1 group-title="TV" tvg-id="TVPSport.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-sport-pl.png",TVP Sport
 https://irylek.ct8.pl/stream/tvpsport
 
+#EXTINF:-1 group-title="TV" tvg-id="TVNStyle.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvn-style-pl.png",TVN Style
+https://1999.weebvideo.stream/channel/109666/amlst:live/playlist.m3u8?token=bMAwqt3pRu863HIf&e=0yww8iCCtHaDShsKfJMUWs0VfA4jbMJHMzGTNaNI5ErMV7QhOlaIjWyLIO4zIVFQ9yBMA6BiXZIL87Y1RDTNcHgUDQCzJgD07Amq5pcP1GE%3D
+
 #EXTINF:-1 group-title="TV" tvg-id="TVPKultura.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-kultura-pl.png",TVP Kultura
 https://irylek.ct8.pl/stream/tvpkultura
 
