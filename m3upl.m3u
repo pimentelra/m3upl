@@ -4,10 +4,10 @@
 
 # 📺 TV
 
-#EXTINF:-1 group-title="TV" tvg-id="TVP1.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp1-hd-pl.png",TVP1
+#EXTINF:-1 group-title="TV" tvg-id="TVP1.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp1-hd-pl.png",TVP 1
 https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
 
-#EXTINF:-1 group-title="TV" tvg-id="TVP2.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp2-hd-pl.png",TVP2
+#EXTINF:-1 group-title="TV" tvg-id="TVP2.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp2-hd-pl.png",TVP 2
 https://ec04-waw4.cache.orange.pl/dai4/org2/vb/105/tvp2hd/index.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="PolsatNews.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-news-pl.png",Polsat News
@@ -25,7 +25,7 @@ https://irylek.ct8.pl/stream/tvpsport
 #EXTINF:-1 group-title="TV" tvg-id="TVPKultura.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-kultura-pl.png",TVP Kultura
 https://irylek.ct8.pl/stream/tvpkultura
 
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-kultura-2-pl.png",TVP Kultura2
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-kultura-2-pl.png",TVP Kultura 2
 https://irylek.ct8.pl/stream/tvpkultura2
 
 #EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TVP_Nauka_%282022%29.svg/240px-TVP_Nauka_%282022%29.svg.png",TVP Nauka
@@ -43,6 +43,6 @@ https://irylek.ct8.pl/stream/tvpworld
 #EXTINF:-1 group-title="TV" tvg-id="TVPABC.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-abc-pl.png",TVP ABC
 https://irylek.ct8.pl/stream/tvpabc
 
-#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-abc2-pl.png",TVP ABC2
+#EXTINF:-1 group-title="TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-abc2-pl.png",TVP ABC 2
 https://irylek.ct8.pl/stream/tvpabc2
 
