@@ -10,11 +10,15 @@ https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="TVP 2 HD.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp2-hd-pl.png",TVP 2
 https://ec04-waw4.cache.orange.pl/dai4/org2/vb/105/tvp2hd/index.m3u8
 
+#EXTINF:-1 group-title="TV" tvg-id="Polsat.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-pl.png",Polsat
+https://lb2-e2-19.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
+
 #EXTINF:-1 group-title="TV" tvg-id="Polsat News HD.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-news-pl.png",Polsat News
 https://lb2-e2-22.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
 
 #EXTINF:-1 group-title="TV" tvg-id="TVP Info HD.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-info-pl.png",TVP Info
-https://rsdt-waw1501-228.tvp.pl/token/video/live/83425222/20241201/1500745968/fLuh36_YVPVBz0HAMSSi0V3s4cEzeo-TWl0woWY4LknW5Zu3ZdT1zcWKKNu4onczEN5Jbnf3h80nJUoSi8PlqlMoF2oL61d9Oxq4IMywXI-4HQM_eabsbNgV0sdn1fEL-iFn1_qzLgecT0ggrwjmgD2OrjrDVrQwXOVrbg9rzO0/156/master.m3u8
+#https://rsdt-waw1501-228.tvp.pl/token/video/live/83425222/20241201/1500745968/fLuh36_YVPVBz0HAMSSi0V3s4cEzeo-TWl0woWY4LknW5Zu3ZdT1zcWKKNu4onczEN5Jbnf3h80nJUoSi8PlqlMoF2oL61d9Oxq4IMywXI-4HQM_eabsbNgV0sdn1fEL-iFn1_qzLgecT0ggrwjmgD2OrjrDVrQwXOVrbg9rzO0/156/master.m3u8
+https://irylek.ct8.pl/stream/tvpinfo
 
 #EXTINF:-1 group-title="TV" tvg-id="TVN 24 HD.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvn24-pl.png",TVN 24
 ##https://xyzdddd.mizhls.ru/lb/premium444/index.m3u8
@@ -42,6 +46,9 @@ https://irylek.ct8.pl/stream/tvphistoria2
 
 #EXTINF:-1 group-title="TV" tvg-id="TVP World HD.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/TVP_World_%282021%29.svg/800px-TVP_World_%282021%29.svg.png",TVP World
 https://irylek.ct8.pl/stream/tvpworld
+
+#EXTINF:-1 group-title="TV" tvg-id="MiniMini+ HD.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/minimini-plus-pl.png",MiniMini+
+http://178.219.128.68:64889/MINIHD
 
 #EXTINF:-1 group-title="TV" tvg-id="TVP ABC.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-abc-pl.png",TVP ABC
 https://irylek.ct8.pl/stream/tvpabc
