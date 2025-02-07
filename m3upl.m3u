@@ -1,6 +1,4 @@
-#EXTM3U url-tvg="https://www.open-epg.com/files/poland.xml.gz"
-#EXTM3U url-tvg="https://www.open-epg.com/files/poland2.xml.gz"
-#EXTM3U url-tvg="https://www.open-epg.com/files/polandpremium.xml.gz"
+#EXTM3U url-tvg="https://www.open-epg.com/files/poland.xml.gz https://www.open-epg.com/files/poland2.xml.gz https://www.open-epg.com/files/polandpremium.xml.gz"
 
 # M3UPT.com - IPTV playlist in M3U format with 📺 TV channels and 📻 radio stations in Polish.
 
