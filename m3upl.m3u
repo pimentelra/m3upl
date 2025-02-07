@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://www.open-epg.com/files/poland.xml.gz https://www.open-epg.com/files/poland2.xml.gz https://www.open-epg.com/files/polandpremium.xml.gz"
+#EXTM3U url-tvg="https://www.open-epg.com/files/poland.xml.gz,https://www.open-epg.com/files/poland2.xml.gz,https://www.open-epg.com/files/polandpremium.xml.gz,http://www.topolowa4.pl/azman_basic.xml.xz,http://www.xmltvepg.nl/azman_basic.xml.xz,http://rytecepg.wanwizard.eu/azman_basic.xml.xz,http://epg.vuplus-community.net/azman_basic.xml.xz,http://www.topolowa4.pl/azman_misc.xml.xz,http://www.xmltvepg.nl/azman_misc.xml.xz,http://rytecepg.wanwizard.eu/azman_misc.xml.xz,http://epg.vuplus-community.net/azman_misc.xml.xz,http://www.topolowa4.pl/azman_iptv.xml.xz,http://www.xmltvepg.nl/azman_iptv.xml.xz,http://rytecepg.wanwizard.eu/azman_iptv.xml.xz,http://epg.vuplus-community.net/azman_iptv.xml.xz,http://www.topolowa4.pl/azman_radio.xml.xz,http://www.xmltvepg.nl/azman_radio.xml.xz,http://rytecepg.wanwizard.eu/azman_radio.xml.xz,http://epg.vuplus-community.net/azman_radio.xml.xz"
 
 # M3UPT.com - IPTV playlist in M3U format with 📺 TV channels and 📻 radio stations in Polish.
 
