@@ -39,9 +39,12 @@ https://irylek.ct8.pl/stream/tvpsport
 https://irylek.ct8.pl/stream/tvpsport
 
 #EXTINF:-1 group-title="TV" tvg-id="TVNStyle.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvn-style-pl.png",TVN Style
-http://
+##http://
 #EXTINF:-1 group-title="TV" tvg-id="TVN Style HD.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvn-style-pl.png",TVN Style
-http://
+##http://
+
+#EXTINF:-1 group-title="TV" tvg-id="TVPDokument.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-dokument-pl.png",TVP Dokument
+https://irylek.ct8.pl/stream/tvpdokument
 
 #EXTINF:-1 group-title="TV" tvg-id="TVPKultura.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-kultura-pl.png",TVP Kultura
 https://irylek.ct8.pl/stream/tvpkultura
