@@ -67,6 +67,9 @@ https://irylek.ct8.pl/stream/tvphistoria
 #EXTINF:-1 group-title="TV" tvg-id="TVPHistoria2.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-historia-2-pl.png",TVP Historia 2
 https://irylek.ct8.pl/stream/tvphistoria2
 
+#EXTINF:-1 group-title="TV" tvg-id="TVPRozrywka.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-rozrywka-pl.png",TVP Rozrywka
+https://irylek.ct8.pl/stream/tvprozrywka
+
 #EXTINF:-1 group-title="TV" tvg-id="TVPWorld.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/TVP_World_%282021%29.svg/800px-TVP_World_%282021%29.svg.png",TVP World
 https://irylek.ct8.pl/stream/tvpworld
 #EXTINF:-1 group-title="TV" tvg-id="TVP World HD.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/TVP_World_%282021%29.svg/800px-TVP_World_%282021%29.svg.png",TVP World
