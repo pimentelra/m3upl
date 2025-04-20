@@ -18,6 +18,15 @@ http://nowatv.stream2.link:8080/live/64%3A1c%3Ab0%3Aa1%3A48%3Ac1/tfAjswfz6H/5242
 #EXTINF:-1 group-title="TV" tvg-id="TVPHD.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-hd-pl.png",TVP HD
 http://nowatv.stream2.link:8080/live/64%3A1c%3Ab0%3Aa1%3A48%3Ac1/tfAjswfz6H/a8ef46c5-142a-4c2a-bb0d-27fdb7ba3a36.ts
 
+#EXTINF:-1 group-title="TV" tvg-id="TVRepublika.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tv-republika-pl.png",TV Republika
+http://185.236.229.62:9981/play/a027
+
+#EXTINF:-1 group-title="TV" tvg-id="TVPPolonia.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-polonia-pl.png",TVP Polonia
+http://185.236.229.62:9981/play/a08m
+
+#EXTINF:-1 group-title="TV" tvg-id="TVPSeriale.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-seriale-pl.png",TVP Seriale
+http://185.236.229.62:9981/play/a02w
+
 #EXTINF:-1 group-title="TV" tvg-id="Polsat.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-pl.png",Polsat
 https://lb2-e2-19.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
 
@@ -26,10 +35,58 @@ http://nowatv.stream2.link:8080/live/64%3A1c%3Ab0%3Aa1%3A48%3Ac1/tfAjswfz6H/3313
 #EXTINF:-1 group-title="TV" tvg-id="Polsat2.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-2-pl.png",Polsat 2
 http://nowatv.stream2.link:8080/live/64%3A1c%3Ab0%3Aa1%3A48%3Ac1/tfAjswfz6H/185dd46e-4702-42ac-84f3-a4ddcfdd9704.ts
 
+#EXTINF:-1 group-title="TV" tvg-id="PolsatCafe.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-cafe-pl.png",Polsat Cafe
+http://185.236.229.62:9981/play/a03z
+
+#EXTINF:-1 group-title="TV" tvg-id="PolsatDoku.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-doku-pl.png",Polsat Doku
+http://185.236.229.62:9981/play/a07z
+
 #EXTINF:-1 group-title="TV" tvg-id="PolsatNews.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-news-pl.png",Polsat News
 https://lb2-e2-22.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
 #EXTINF:-1 group-title="TV" tvg-id="Polsat News HD.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-news-pl.png",Polsat News
 https://lb2-e2-22.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
+
+#EXTINF:-1 group-title="TV" tvg-id="PolsatNews2.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-news2-pl.png",Polsat News 2
+http://185.236.229.62:9981/play/a03u
+
+#EXTINF:-1 group-title="TV" tvg-id="PolsatNewsPolityka.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-news-polityka-pl.png",Polsat News Polityka
+http://185.236.229.62:9981/play/a07h
+
+#EXTINF:-1 group-title="TV" tvg-id="PolsatFilm.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-film-pl.png",Polsat Film
+http://185.236.229.62:9981/play/a040
+
+#EXTINF:-1 group-title="TV" tvg-id="PolsatGames.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-games-pl.png",Polsat Games
+http://185.236.229.62:9981/play/a025
+
+#EXTINF:-1 group-title="TV" tvg-id="PolsatMusic.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-music-hd-pl.png",Polsat Music
+http://185.236.229.62:9981/play/a02b
+
+#EXTINF:-1 group-title="TV" tvg-id="PolsatPlay.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-play-pl.png",Polsat Play
+http://185.236.229.62:9981/play/a03w
+
+#EXTINF:-1 group-title="TV" tvg-id="PolsatRodzina.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-rodzina-pl.png",Polsat Rodzina
+http://185.236.229.62:9981/play/a079
+
+#EXTINF:-1 group-title="TV" tvg-id="PolsatSeriale.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-seriale-pl.png",Polsat Seriale
+http://185.236.229.62:9981/play/a07b
+
+#EXTINF:-1 group-title="TV" tvg-id="PolsatSport.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-sport-hd-pl.png",Polsat Sport
+http://185.236.229.62:9981/play/a07n
+
+#EXTINF:-1 group-title="TV" tvg-id="PolsatSportExtra.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-sport-extra-hd-pl.png",Polsat Sport Extra
+http://185.236.229.62:9981/play/a07q
+
+#EXTINF:-1 group-title="TV" tvg-id="PolsatSportFight.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-sport-fight-hd-pl.png",Polsat Sport Fight
+http://185.236.229.62:9981/play/a06l
+
+#EXTINF:-1 group-title="TV" tvg-id="PolsatSportNews.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-sport-news-hd-pl.png",Polsat Sport News
+http://185.236.229.62:9981/play/a06m
+
+#EXTINF:-1 group-title="TV" tvg-id="PolsatViasatHistory.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-viasat-history-hd-pl.png",Polsat Viasat History
+http://185.236.229.62:9981/play/a07o
+
+#EXTINF:-1 group-title="TV" tvg-id="PolsatViasatNature.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-viasat-nature-hd-pl.png",Polsat Viasat Nature
+http://185.236.229.62:9981/play/a06g
 
 #EXTINF:-1 group-title="TV" tvg-id="TVPInfo.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-info-pl.png",TVP Info
 http://185.236.229.62:9981/play/a02j
@@ -69,6 +126,27 @@ http://185.236.229.62:9981/play/a02z
 #EXTINF:-1 group-title="TV" tvg-id="TVP ABC.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-abc-pl.png",TVP ABC
 http://185.236.229.62:9981/play/a02z
 
+#EXTINF:-1 group-title="TV" tvg-id="PolsatJimJam.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-jimjam-pl.png",Polsat JimJam
+http://185.236.229.62:9981/play/a07e
+
+#EXTINF:-1 group-title="TV" tvg-id="DisneyChannel.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/disney-channel-int.png",Disney Channel
+http://185.236.229.62:9981/play/a07d
+
+#EXTINF:-1 group-title="TV" tvg-id="DisneyJunior.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/disney-junior-uk.png",Disney Junior
+http://185.236.229.62:9981/play/a06n
+
+#EXTINF:-1 group-title="TV" tvg-id="DisneyXD.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/disney-xd-uk.png",Disney XD
+http://185.236.229.62:9981/play/a07c
+
+#EXTINF:-1 group-title="TV" tvg-id="NickJr.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/nick-jr-pl.png",Nick Jr.
+http://185.236.229.62:9981/play/a065
+
+#EXTINF:-1 group-title="TV" tvg-id="Nickelodeon.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/nickelodeon-pl.png",Nickelodeon
+http://185.236.229.62:9981/play/a067
+
+#EXTINF:-1 group-title="TV" tvg-id="Nicktoons.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/nick-toons-uk.png",Nicktoons
+http://185.236.229.62:9981/play/a06a
+
 #EXTINF:-1 group-title="TV" tvg-id="AXN.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/axn-hd-pl.png",AXN
 http://185.236.229.62:9981/play/a07s
 
@@ -81,3 +159,77 @@ http://185.236.229.62:9981/play/a044
 #EXTINF:-1 group-title="TV" tvg-id="AXNWhite.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/axn-white-hd-pl.png",AXN White
 http://185.236.229.62:9981/play/a074
 
+#EXTINF:-1 group-title="TV" tvg-id="BBCBrit.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/BBC_Brit.svg/960px-BBC_Brit.svg.png",BBC Brit
+http://185.236.229.62:9981/play/a06r
+
+#EXTINF:-1 group-title="TV" tvg-id="BBCEarth.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/960px-BBC_Earth_2023.svg.png",BBC Earth
+http://185.236.229.62:9981/play/a02o
+
+#EXTINF:-1 group-title="TV" tvg-id="BBCFirst.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/BBC_First_2022.svg",BBC First
+http://185.236.229.62:9981/play/a02n
+
+#EXTINF:-1 group-title="TV" tvg-id="BBCLifestyle.pl" tvg-logohttps://upload.wikimedia.org/wikipedia/commons/b/ba/BBC_Lifestyle2.svg",BBC Lifestyle
+http://185.236.229.62:9981/play/a06t
+
+#EXTINF:-1 group-title="TV" tvg-id="ComedyCentral.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/comedy-central-pl.png",Comedy Central
+http://185.236.229.62:9981/play/a068
+
+#EXTINF:-1 group-title="TV" tvg-id="CrimePlusInvestigationPolsat.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-crime-and-investigation-pl.png",Crime + Investigation Polsat
+http://185.236.229.62:9981/play/a07w
+
+#EXTINF:-1 group-title="TV" tvg-id="DiscoPoloMusic.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/disco-polo-music-pl.png",Disco Polo Music
+http://185.236.229.62:9981/play/a078
+
+#EXTINF:-1 group-title="TV" tvg-id="FilmBoxExtra.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/filmbox-extra-hd-pl.png",FilmBox Extra
+http://185.236.229.62:9981/play/a036
+
+#EXTINF:-1 group-title="TV" tvg-id="FilmBoxFamily.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/filmbox-family-hd-pl.png" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/axn-white-hd-pl.png",FilmBox Family
+http://185.236.229.62:9981/play/a032
+
+#EXTINF:-1 group-title="TV" tvg-id="FilmBoxPremiumHD.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/filmbox-premium-hd-pl.png",FilmBox Premium
+http://185.236.229.62:9981/play/a02x
+
+#EXTINF:-1 group-title="TV" tvg-id="FoxComedy.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-comedy-au.png",Fox Comedy
+http://185.236.229.62:9981/play/a07t
+
+#EXTINF:-1 group-title="TV" tvg-id="KinoPolska.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/kino-polska-pl.png",Kino Polska
+http://185.236.229.62:9981/play/a05v
+
+#EXTINF:-1 group-title="TV" tvg-id="KinoPolskaMuzyka.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/kino-polska-muzyka-pl.png",Kino Polska Muzyka
+http://185.236.229.62:9981/play/a030
+
+#EXTINF:-1 group-title="TV" tvg-id="KinoTV.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/kino-tv-pl.png",Kino TV
+http://185.236.229.62:9981/play/a031
+
+#EXTINF:-1 group-title="TV" tvg-id="ParamountNetwork.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/paramount-network-pl.png",Paramount Network
+http://185.236.229.62:9981/play/a069
+
+#EXTINF:-1 group-title="TV" tvg-id="ElevenSports1.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eleven-sports-1-int.png",Eleven Sports 1
+http://185.236.229.62:9981/play/a05w
+
+#EXTINF:-1 group-title="TV" tvg-id="ElevenSports2.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eleven-sports-2-int.png",Eleven Sports 2
+http://185.236.229.62:9981/play/a05y
+
+#EXTINF:-1 group-title="TV" tvg-id="ElevenSports3.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/eleven-sports-3-int.png",Eleven Sports 3
+http://185.236.229.62:9981/play/a061
+
+#EXTINF:-1 group-title="TV" tvg-id="NatGeoPeople.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/nat-geo-people-hd-pl.png",Nat Geo People
+http://185.236.229.62:9981/play/a06f
+
+#EXTINF:-1 group-title="TV" tvg-id="NationalGeographic.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/national-geographic-hd-pl.png",National Geographic
+http://185.236.229.62:9981/play/a04d
+
+#EXTINF:-1 group-title="TV" tvg-id="NationalGeographicWild.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/nat-geo-wild-hd-pl.png",National Geographic Wild
+http://185.236.229.62:9981/play/a05z
+
+#EXTINF:-1 tvg-id="TV4.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tv4-pl.png",TV4
+http://185.236.229.62:9981/play/a03x
+
+#EXTINF:-1 group-title="TV" tvg-id="TV6.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tv6-pl.png",TV6
+http://185.236.229.62:9981/play/a03y
+
+#EXTINF:-1 group-title="TV" tvg-id="TVPuls.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tv-puls-pl.png",TV Puls
+http://185.236.229.62:9981/play/a034
+
+#EXTINF:-1 group-title="TV" tvg-id="Puls2.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/puls2-pl.png",Puls 2
+http://185.236.229.62:9981/play/a02y
