@@ -17,9 +17,9 @@ http://nowatv.stream2.link:8080/live/64%3A1c%3Ab0%3Aa1%3A48%3Ac1/tfAjswfz6H/5242
 #EXTINF:-1 group-title="TV" tvg-id="TVPHD.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-hd-pl.png",TVP HD
 http://nowatv.stream2.link:8080/live/64%3A1c%3Ab0%3Aa1%3A48%3Ac1/tfAjswfz6H/a8ef46c5-142a-4c2a-bb0d-27fdb7ba3a36.ts
 
-#EXTINF:-1 group-title="TV" tvg-id="TVRepublika.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tv-republika-pl.png",TV Republika
+#EXTINF:-1 group-title="TV" tvg-id="Republika.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tv-republika-pl.png",TV Republika
 http://nowatv.stream2.link:8080/live/64%3A1c%3Ab0%3Aa1%3A48%3Ac1/tfAjswfz6H/610afe23-79a2-4d0d-b607-dbbe08297b50.ts
-#EXTINF:-1 group-title="TV" tvg-id="TVRepublika.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tv-republika-pl.png",TV Republika
+#EXTINF:-1 group-title="TV" tvg-id="Republika HD.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tv-republika-pl.png",TV Republika
 http://185.236.229.62:9981/play/a027
 
 #EXTINF:-1 group-title="TV" tvg-id="TVPPolonia.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-polonia-pl.png",TVP Polonia
@@ -87,17 +87,17 @@ http://nowatv.stream2.link:8080/live/64%3A1c%3Ab0%3Aa1%3A48%3Ac1/tfAjswfz6H/ab79
 #EXTINF:-1 group-title="TV" tvg-id="PolsatSeriale.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-seriale-pl.png",Polsat Seriale
 http://185.236.229.62:9981/play/a07b
 
-#EXTINF:-1 group-title="TV" tvg-id="PolsatSport.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-sport-hd-pl.png",Polsat Sport
+#EXTINF:-1 group-title="TV" tvg-id="Polsat Sport 1 HD.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-sport-1-pl.png",Polsat Sport 1
 http://185.236.229.62:9981/play/a07n
 
-#EXTINF:-1 group-title="TV" tvg-id="PolsatSportExtra.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-sport-extra-hd-pl.png",Polsat Sport Extra
+#EXTINF:-1 group-title="TV" tvg-id="Polsat Sport 2 HD.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-sport-2-pl.png",Polsat Sport 2
 http://185.236.229.62:9981/play/a07q
+
+#EXTINF:-1 group-title="TV" tvg-id="Polsat Sport 3 HD.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-sport-3-pl.png",Polsat Sport 3
+http://185.236.229.62:9981/play/a06m
 
 #EXTINF:-1 group-title="TV" tvg-id="PolsatSportFight.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-sport-fight-hd-pl.png",Polsat Sport Fight
 http://185.236.229.62:9981/play/a06l
-
-#EXTINF:-1 group-title="TV" tvg-id="PolsatSportNews.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-sport-news-hd-pl.png",Polsat Sport News
-http://185.236.229.62:9981/play/a06m
 
 #EXTINF:-1 group-title="TV" tvg-id="PolsatViasatHistory.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-viasat-history-hd-pl.png",Polsat Viasat History
 http://185.236.229.62:9981/play/a07o
@@ -197,13 +197,13 @@ http://185.236.229.62:9981/play/a07w
 #EXTINF:-1 group-title="TV" tvg-id="DiscoPoloMusic.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/disco-polo-music-pl.png",Disco Polo Music
 http://185.236.229.62:9981/play/a078
 
-#EXTINF:-1 group-title="TV" tvg-id="FilmBoxExtra.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/filmbox-extra-hd-pl.png",FilmBox Extra
+#EXTINF:-1 group-title="TV" tvg-id="FilmBox Extra HD.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/filmbox-extra-hd-pl.png",FilmBox Extra
 http://185.236.229.62:9981/play/a036
 
-#EXTINF:-1 group-title="TV" tvg-id="FilmBoxFamily.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/filmbox-family-hd-pl.png" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/axn-white-hd-pl.png",FilmBox Family
+#EXTINF:-1 group-title="TV" tvg-id="FilmBox Family.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/filmbox-family-hd-pl.png" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/axn-white-hd-pl.png",FilmBox Family
 http://185.236.229.62:9981/play/a032
 
-#EXTINF:-1 group-title="TV" tvg-id="FilmBoxPremiumHD.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/filmbox-premium-hd-pl.png",FilmBox Premium
+#EXTINF:-1 group-title="TV" tvg-id="FilmBox Premium HD.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/filmbox-premium-hd-pl.png",FilmBox Premium
 http://185.236.229.62:9981/play/a02x
 
 #EXTINF:-1 group-title="TV" tvg-id="FoxComedy.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-comedy-au.png",Fox Comedy
@@ -215,7 +215,7 @@ http://185.236.229.62:9981/play/a05v
 #EXTINF:-1 group-title="TV" tvg-id="KinoPolskaMuzyka.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/kino-polska-muzyka-pl.png",Kino Polska Muzyka
 http://185.236.229.62:9981/play/a030
 
-#EXTINF:-1 group-title="TV" tvg-id="KinoTV.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/kino-tv-pl.png",Kino TV
+#EXTINF:-1 group-title="TV" tvg-id="Kino TV HD.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/kino-tv-pl.png",Kino TV
 http://185.236.229.62:9981/play/a031
 
 #EXTINF:-1 group-title="TV" tvg-id="ParamountNetwork.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/paramount-network-pl.png",Paramount Network
