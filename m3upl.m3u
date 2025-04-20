@@ -5,17 +5,26 @@
 # 📺 TV
 
 #EXTINF:-1 group-title="TV" tvg-id="TVP1.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp1-hd-pl.png",TVP 1
-https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
+#https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
+http://nowatv.stream2.link:8080/live/64%3A1c%3Ab0%3Aa1%3A48%3Ac1/tfAjswfz6H/172c116f-0e21-4c80-9146-327a2ee05918.ts
+
 #EXTINF:-1 group-title="TV" tvg-id="TVP 1 HD.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp1-hd-pl.png",TVP 1
-https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
+http://nowatv.stream2.link:8080/live/64%3A1c%3Ab0%3Aa1%3A48%3Ac1/tfAjswfz6H/00eb3d6b-3ce1-4016-aa67-944190ae0103.ts
 
 #EXTINF:-1 group-title="TV" tvg-id="TVP2.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp2-hd-pl.png",TVP 2
-https://ec04-waw4.cache.orange.pl/dai4/org2/vb/105/tvp2hd/index.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="TVP 2 HD.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp2-hd-pl.png",TVP 2
-https://ec04-waw4.cache.orange.pl/dai4/org2/vb/105/tvp2hd/index.m3u8
+#https://ec04-waw4.cache.orange.pl/dai4/org2/vb/105/tvp2hd/index.m3u8
+http://nowatv.stream2.link:8080/live/64%3A1c%3Ab0%3Aa1%3A48%3Ac1/tfAjswfz6H/5242aace-e131-4449-af51-46207be50da5.ts
+
+#EXTINF:-1 group-title="TV" tvg-id="TVPHD.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-hd-pl.png",TVP HD
+http://nowatv.stream2.link:8080/live/64%3A1c%3Ab0%3Aa1%3A48%3Ac1/tfAjswfz6H/a8ef46c5-142a-4c2a-bb0d-27fdb7ba3a36.ts
 
 #EXTINF:-1 group-title="TV" tvg-id="Polsat.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-pl.png",Polsat
 https://lb2-e2-19.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
+
+#EXTINF:-1 group-title="TV" tvg-id="Polsat2.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-2-pl.png",Polsat 2
+http://nowatv.stream2.link:8080/live/64%3A1c%3Ab0%3Aa1%3A48%3Ac1/tfAjswfz6H/3313df7a-4f5a-49d4-b75a-d3ed161915ca.ts
+#EXTINF:-1 group-title="TV" tvg-id="Polsat2.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-2-pl.png",Polsat 2
+http://nowatv.stream2.link:8080/live/64%3A1c%3Ab0%3Aa1%3A48%3Ac1/tfAjswfz6H/185dd46e-4702-42ac-84f3-a4ddcfdd9704.ts
 
 #EXTINF:-1 group-title="TV" tvg-id="PolsatNews.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-news-pl.png",Polsat News
 https://lb2-e2-22.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
@@ -23,68 +32,52 @@ https://lb2-e2-22.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
 https://lb2-e2-22.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
 
 #EXTINF:-1 group-title="TV" tvg-id="TVPInfo.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-info-pl.png",TVP Info
-#https://rsdt-waw1501-228.tvp.pl/token/video/live/83425222/20241201/1500745968/fLuh36_YVPVBz0HAMSSi0V3s4cEzeo-TWl0woWY4LknW5Zu3ZdT1zcWKKNu4onczEN5Jbnf3h80nJUoSi8PlqlMoF2oL61d9Oxq4IMywXI-4HQM_eabsbNgV0sdn1fEL-iFn1_qzLgecT0ggrwjmgD2OrjrDVrQwXOVrbg9rzO0/156/master.m3u8
-https://irylek.ct8.pl/stream/tvpinfo
+http://185.236.229.62:9981/play/a02j
 #EXTINF:-1 group-title="TV" tvg-id="TVP Info HD.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-info-pl.png",TVP Info
-https://irylek.ct8.pl/stream/tvpinfo
+http://185.236.229.62:9981/play/a02j
 
-#EXTINF:-1 group-title="TV" tvg-id="TVN24.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvn24-pl.png",TVN 24
-##https://xyzdddd.mizhls.ru/lb/premium444/index.m3u8
-#EXTINF:-1 group-title="TV" tvg-id="TVN 24 HD.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvn24-pl.png",TVN 24
-##https://xyzdddd.mizhls.ru/lb/premium444/index.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="PolsatSport.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-sport-hd-pl.png",Polsat Sport
+http://185.236.229.62:9981/play/a07n
 
-#EXTINF:-1 group-title="TV" tvg-id="TVPSport.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-sport-pl.png",TVP Sport
-https://irylek.ct8.pl/stream/tvpsport
-#EXTINF:-1 group-title="TV" tvg-id="TVP Sport HD.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-sport-pl.png",TVP Sport
-https://irylek.ct8.pl/stream/tvpsport
+#EXTINF:-1 group-title="TV" tvg-id="PolsatSportExtra.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-sport-extra-hd-pl.png",Polsat Sport Extra
+http://185.236.229.62:9981/play/a07q
 
-#EXTINF:-1 group-title="TV" tvg-id="TVNStyle.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvn-style-pl.png",TVN Style
-##http://
-#EXTINF:-1 group-title="TV" tvg-id="TVN Style HD.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvn-style-pl.png",TVN Style
-##http://
+#EXTINF:-1 group-title="TV" tvg-id="PolsatSportFight.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-sport-fight-hd-pl.png",Polsat Sport Fight
+http://185.236.229.62:9981/play/a06l
+
+#EXTINF:-1 group-title="TV" tvg-id="PolsatSportNews.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-sport-news-hd-pl.png",Polsat Sport News
+http://185.236.229.62:9981/play/a06m
 
 #EXTINF:-1 group-title="TV" tvg-id="TVPDokument.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-dokument-pl.png",TVP Dokument
-https://irylek.ct8.pl/stream/tvpdokument
+http://185.236.229.62:9981/play/a05b
 
 #EXTINF:-1 group-title="TV" tvg-id="TVPKultura.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-kultura-pl.png",TVP Kultura
-https://irylek.ct8.pl/stream/tvpkultura
+http://185.236.229.62:9981/play/a02t
 #EXTINF:-1 group-title="TV" tvg-id="TVP Kultura HD.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-kultura-pl.png",TVP Kultura
-https://irylek.ct8.pl/stream/tvpkultura
-
-#EXTINF:-1 group-title="TV" tvg-id="TVPKultura2.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-kultura-2-pl.png",TVP Kultura 2
-https://irylek.ct8.pl/stream/tvpkultura2
-
-#EXTINF:-1 group-title="TV" tvg-id="TVPNauka.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TVP_Nauka_%282022%29.svg/240px-TVP_Nauka_%282022%29.svg.png",TVP Nauka
-https://irylek.ct8.pl/stream/tvpnauka
-#EXTINF:-1 group-title="TV" tvg-id="TVP Nauka HD.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TVP_Nauka_%282022%29.svg/240px-TVP_Nauka_%282022%29.svg.png",TVP Nauka
-https://irylek.ct8.pl/stream/tvpnauka
+http://nowatv.stream2.link:8080/live/64%3A1c%3Ab0%3Aa1%3A48%3Ac1/tfAjswfz6H/77234e51-d22e-4941-9644-e4537a9f0691.ts
 
 #EXTINF:-1 group-title="TV" tvg-id="TVPHistoria.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-historia-pl.png",TVP Historia
-https://irylek.ct8.pl/stream/tvphistoria
+http://nowatv.stream2.link:8080/live/64%3A1c%3Ab0%3Aa1%3A48%3Ac1/tfAjswfz6H/1126cb0c-d437-4f64-bd74-e66b085a72ef.ts
 #EXTINF:-1 group-title="TV" tvg-id="TVP Historia.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-historia-pl.png",TVP Historia
-https://irylek.ct8.pl/stream/tvphistoria
-
-#EXTINF:-1 group-title="TV" tvg-id="TVPHistoria2.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-historia-2-pl.png",TVP Historia 2
-https://irylek.ct8.pl/stream/tvphistoria2
+http://nowatv.stream2.link:8080/live/64%3A1c%3Ab0%3Aa1%3A48%3Ac1/tfAjswfz6H/d19b3e42-40ab-4a06-bfa1-d659d0d0c926.ts
 
 #EXTINF:-1 group-title="TV" tvg-id="TVPRozrywka.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-rozrywka-pl.png",TVP Rozrywka
-https://irylek.ct8.pl/stream/tvprozrywka
-
-#EXTINF:-1 group-title="TV" tvg-id="TVPWorld.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/TVP_World_%282021%29.svg/800px-TVP_World_%282021%29.svg.png",TVP World
-https://irylek.ct8.pl/stream/tvpworld
-#EXTINF:-1 group-title="TV" tvg-id="TVP World HD.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/TVP_World_%282021%29.svg/800px-TVP_World_%282021%29.svg.png",TVP World
-https://irylek.ct8.pl/stream/tvpworld
-
-#EXTINF:-1 group-title="TV" tvg-id="MiniMini.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/minimini-plus-pl.png",MiniMini+
-http://178.219.128.68:64889/MINIHD
-#EXTINF:-1 group-title="TV" tvg-id="MiniMini+ HD.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/minimini-plus-pl.png",MiniMini+
-http://178.219.128.68:64889/MINIHD
+http://185.236.229.62:9981/play/a026
 
 #EXTINF:-1 group-title="TV" tvg-id="TVPABC.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-abc-pl.png",TVP ABC
-https://irylek.ct8.pl/stream/tvpabc
+http://185.236.229.62:9981/play/a02z
 #EXTINF:-1 group-title="TV" tvg-id="TVP ABC.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-abc-pl.png",TVP ABC
-https://irylek.ct8.pl/stream/tvpabc
+http://185.236.229.62:9981/play/a02z
 
-#EXTINF:-1 group-title="TV" tvg-id="TVPABC2.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-abc2-pl.png",TVP ABC 2
-https://irylek.ct8.pl/stream/tvpabc2
+#EXTINF:-1 group-title="TV" tvg-id="AXN.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/axn-hd-pl.png",AXN
+http://185.236.229.62:9981/play/a07s
+
+#EXTINF:-1 group-title="TV" tvg-id="AXNBlack.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/axn-black-hd-pl.png",AXN Black
+http://185.236.229.62:9981/play/a075
+
+#EXTINF:-1 group-title="TV" tvg-id="AXNSpin.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/axn-spin-hd-pl.png",AXN Spin
+http://185.236.229.62:9981/play/a044
+
+#EXTINF:-1 group-title="TV" tvg-id="AXNWhite.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/axn-white-hd-pl.png",AXN White
+http://185.236.229.62:9981/play/a074
 
