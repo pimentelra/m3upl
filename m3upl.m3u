@@ -7,7 +7,6 @@
 #EXTINF:-1 group-title="TV" tvg-id="TVP1.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp1-hd-pl.png",TVP 1
 #https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
 http://nowatv.stream2.link:8080/live/64%3A1c%3Ab0%3Aa1%3A48%3Ac1/tfAjswfz6H/172c116f-0e21-4c80-9146-327a2ee05918.ts
-
 #EXTINF:-1 group-title="TV" tvg-id="TVP 1 HD.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp1-hd-pl.png",TVP 1
 http://nowatv.stream2.link:8080/live/64%3A1c%3Ab0%3Aa1%3A48%3Ac1/tfAjswfz6H/00eb3d6b-3ce1-4016-aa67-944190ae0103.ts
 
@@ -127,9 +126,9 @@ http://185.236.229.62:9981/play/a06m
 http://185.236.229.62:9981/play/a05b
 
 #EXTINF:-1 group-title="TV" tvg-id="TVPKultura.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-kultura-pl.png",TVP Kultura
-http://185.236.229.62:9981/play/a02t
-#EXTINF:-1 group-title="TV" tvg-id="TVP Kultura HD.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-kultura-pl.png",TVP Kultura
 http://nowatv.stream2.link:8080/live/64%3A1c%3Ab0%3Aa1%3A48%3Ac1/tfAjswfz6H/77234e51-d22e-4941-9644-e4537a9f0691.ts
+#EXTINF:-1 group-title="TV" tvg-id="TVP Kultura HD.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-kultura-pl.png",TVP Kultura
+http://185.236.229.62:9981/play/a02t
 
 #EXTINF:-1 group-title="TV" tvg-id="TVPHistoria.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-historia-pl.png",TVP Historia
 http://nowatv.stream2.link:8080/live/64%3A1c%3Ab0%3Aa1%3A48%3Ac1/tfAjswfz6H/1126cb0c-d437-4f64-bd74-e66b085a72ef.ts
@@ -183,10 +182,10 @@ http://185.236.229.62:9981/play/a06r
 #EXTINF:-1 group-title="TV" tvg-id="BBCEarth.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/BBC_Earth_2023.svg/960px-BBC_Earth_2023.svg.png",BBC Earth
 http://185.236.229.62:9981/play/a02o
 
-#EXTINF:-1 group-title="TV" tvg-id="BBCFirst.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/BBC_First_2022.svg",BBC First
+#EXTINF:-1 group-title="TV" tvg-id="BBCFirst.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/BBC_First_2022.svg/250px-BBC_First_2022.svg.png",BBC First
 http://185.236.229.62:9981/play/a02n
 
-#EXTINF:-1 group-title="TV" tvg-id="BBCLifestyle.pl" tvg-logohttps://upload.wikimedia.org/wikipedia/commons/b/ba/BBC_Lifestyle2.svg",BBC Lifestyle
+#EXTINF:-1 group-title="TV" tvg-id="BBCLifestyle.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/250px-BBC_Lifestyle2.svg.png",BBC Lifestyle
 http://185.236.229.62:9981/play/a06t
 
 #EXTINF:-1 group-title="TV" tvg-id="ComedyCentral.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/comedy-central-pl.png",Comedy Central
