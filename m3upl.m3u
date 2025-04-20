@@ -110,18 +110,6 @@ http://185.236.229.62:9981/play/a02j
 #EXTINF:-1 group-title="TV" tvg-id="TVP Info HD.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-info-pl.png",TVP Info
 http://185.236.229.62:9981/play/a02j
 
-#EXTINF:-1 group-title="TV" tvg-id="PolsatSport.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-sport-hd-pl.png",Polsat Sport
-http://185.236.229.62:9981/play/a07n
-
-#EXTINF:-1 group-title="TV" tvg-id="PolsatSportExtra.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-sport-extra-hd-pl.png",Polsat Sport Extra
-http://185.236.229.62:9981/play/a07q
-
-#EXTINF:-1 group-title="TV" tvg-id="PolsatSportFight.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-sport-fight-hd-pl.png",Polsat Sport Fight
-http://185.236.229.62:9981/play/a06l
-
-#EXTINF:-1 group-title="TV" tvg-id="PolsatSportNews.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/polsat-sport-news-hd-pl.png",Polsat Sport News
-http://185.236.229.62:9981/play/a06m
-
 #EXTINF:-1 group-title="TV" tvg-id="TVPDokument.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tvp-dokument-pl.png",TVP Dokument
 http://185.236.229.62:9981/play/a05b
 
