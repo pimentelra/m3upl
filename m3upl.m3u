@@ -242,7 +242,7 @@ http://185.236.229.62:9981/play/a04d
 #EXTINF:-1 group-title="TV" tvg-id="NationalGeographicWild.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/nat-geo-wild-hd-pl.png",National Geographic Wild
 http://185.236.229.62:9981/play/a05z
 
-#EXTINF:-1 tvg-id="TV4.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tv4-pl.png",TV4
+#EXTINF:-1 group-title="TV" tvg-id="TV4.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tv4-pl.png",TV4
 http://185.236.229.62:9981/play/a03x
 
 #EXTINF:-1 group-title="TV" tvg-id="TV6.pl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/tv6-pl.png",TV6
